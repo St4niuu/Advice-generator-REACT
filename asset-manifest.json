@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Advice-generator-REACT/static/css/main.fcb94631.css",
+    "main.js": "/Advice-generator-REACT/static/js/main.d3da7a23.js",
+    "index.html": "/Advice-generator-REACT/index.html",
+    "static/media/icon-dice.svg": "/Advice-generator-REACT/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider.svg": "/Advice-generator-REACT/static/media/pattern-divider.aca38726412164df099c43d4f2fed72e.svg",
+    "main.fcb94631.css.map": "/Advice-generator-REACT/static/css/main.fcb94631.css.map",
+    "main.d3da7a23.js.map": "/Advice-generator-REACT/static/js/main.d3da7a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb94631.css",
+    "static/js/main.d3da7a23.js"
+  ]
+}
